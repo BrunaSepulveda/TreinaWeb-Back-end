@@ -1,5 +1,4 @@
 .projeto
-venv
 .idea
 *.sqlite3
 *pyc
